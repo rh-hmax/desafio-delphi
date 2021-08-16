@@ -62,8 +62,10 @@ A classe TProduto deve ter ao menos o método abaixo:
 Não há método obrigatório para esta classe.
 
 # Formulários/Telas
-Fique a vontade para elaborar os formulários como lhe parecer melhor. Abaixo seguem apenas sugestões visando facilitar a criação.
-### Formulário de Produto
+Fique a vontade para elaborar os formulários como lhe parecer melhor.
+Abaixo seguem apenas sugestões visando facilitar a criação.
+
+### Formulário Principal
     - Grid: Listando todos os produtos com ID do produto, Descrição do produto, Descrição da categoria e o valor do produto.
     - Botão Novo: para abrir o formulário de produto
     - Botão Editar: para abrir o formulário de produto, já com as informações do produto selecionado no grid.
