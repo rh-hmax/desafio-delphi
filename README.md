@@ -11,8 +11,8 @@ Fazendo o uso de classes e orientação à objeto, precisamos de uma aplicação
 ### Requisitos não funcionais
     - É preciso haver uma classe para produto
     - A inclusão de produto deve utilizar a classe de produto
-    - Para conexão com o banco de dados, deve-se utilizar o Firedac ou DBExpress
-    - Pode-se utilizar qualquer banco de dados compatível com Firedac ou DBExpress
+    - Para conexão com o banco de dados, deve-se utilizar o Firedac ou DBExpress ou Zeos se utilizar Lazarus
+    - Pode-se utilizar qualquer banco de dados compatível com Firedac ou DBExpress Zeos se utilizar Lazarus
 ### Entrega do desafio
 	- Um repositório GitHub
 ### Critérios de avaliação
